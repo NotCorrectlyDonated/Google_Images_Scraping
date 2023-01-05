@@ -15,12 +15,12 @@ As told, we will lean on a Selenium API of our preferrable Web Browser, so we wi
 
 ### Google searchs (``urls``)
 
-In this argument we will place a list of the different web searchs we will like to download their images. 
+In this argument we will place a list of the different web searchs we will like to download their images, each item must obviously be an string of the url. 
 
 
 ### URLs Directories (``directory_names``)
 
-This argument is expected to be another list (with the same length as `urls`) with the names that we want for the directories where the images are going to be located. These names must be in the same order than the URLs.
+This argument is expected to be another list with the names that we want for the directories where the images are going to be located (same length as `urls`). These names must be in the same order than the URLs.
 
 ### Directory path (``directory_path``)
 
