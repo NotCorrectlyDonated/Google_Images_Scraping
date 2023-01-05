@@ -7,7 +7,7 @@ Due to the fact that recently Google Images has changed the way the page refresh
 
 ## Way to use it
 
-In order to make it more usable and easy for you, I have made a function with the arguments needed for the proccess, you can also find it [here](./Google_Images). These are:
+In order to make it more usable and easy for you, I have made a function with the arguments needed for the proccess, you can also find it [here](/Google_Images). These are:
 
 ### Selenium API (`path_api`)
 
