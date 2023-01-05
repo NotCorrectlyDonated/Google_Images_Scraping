@@ -11,7 +11,7 @@ In order to make it more usable and easy for you, I have made a function with th
 
 ### Selenium API (`path_api`)
 
-As told, we will lean on a Selenium API of our preferrable Web Browser, so we will have to download it to automate the search, you can find different Selenium drivers [here](https://www.selenium.dev/selenium/docs/api/javascript/index.html). Once we have downloaded the web driver we have to place the path of its location in the `path_api` argument.
+As told, we will lean on a Selenium API of our preferrable Web Browser, so we will have to download it to automate the search, you can find different Selenium drivers [here](https://www.selenium.dev/selenium/docs/api/javascript/index.html). To make it simple and don't extend the args too much, we will use chromedriver, ** Note that if you want to use another driver, _you will need to change the ``wb`` parameter_ in the notebook ** . Once we have downloaded the web driver we have to place the path of its location in the `path_api` argument.
 
 ### Google searchs (``urls``)
 
