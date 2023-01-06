@@ -1,7 +1,7 @@
 # Using Web Scrapping in Google Images
 
 
-Web Scrapping can be a useful way to obtain raw data if the content needed is scarcy or difficult to get, the way these tools work is by addressing the "visual" data of an URL and getting the information needed. There are many libraries, difering in the method they use, whereas some focus in obtaining information by how the data is  structured (`BeautifulSoup`) others may directly automize a web browser (`Selenium`). To get more info, visit this [link](https://medium.com/ymedialabs-innovation/web-scraping-using-beautiful-soup-and-selenium-for-dynamic-page-2f8ad15efe25).
+Web Scrapping its a useful way to obtain raw data if the content needed is scarcy or difficult to get, the way these tools work is by addressing the "visual" data of an URL and getting the information needed. There are many libraries, difering in the method they use, whereas some focus in obtaining information by how the data is  structured (`BeautifulSoup`) others may directly automize a web browser (`Selenium`). To get more info, visit this [link](https://medium.com/ymedialabs-innovation/web-scraping-using-beautiful-soup-and-selenium-for-dynamic-page-2f8ad15efe25).
 
 Due to the fact that recently Google Images has changed the way the page refresh and it oblies you to scroll down in order to load more images, I determine that the most suitable library to use would be `Selenium`, imitating the process a user would do to download each image and automize it.
 
