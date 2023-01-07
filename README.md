@@ -25,3 +25,7 @@ This argument is expected to be another list with the names that we want for the
 ### Directory path (``directory_path``)
 
 The local location where we want to place the different directories created.
+
+## Output
+
+The output when completing the arguments are "n" directories with all the relevant images downloaded from the urls selected
